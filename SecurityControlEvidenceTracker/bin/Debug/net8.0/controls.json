@@ -1,0 +1,24 @@
+[
+  {
+    "Id": 1,
+    "ControlName": "Firewall",
+    "Framework": "SOC",
+    "ControlCategory": "Access Logic",
+    "Owner": "Admin",
+    "EvidenceDescription": "",
+    "DueDate": "2026-07-01T00:00:00",
+    "Status": 3,
+    "Notes": ""
+  },
+  {
+    "Id": 2,
+    "ControlName": "Sub-Frame Authentication",
+    "Framework": "NIST",
+    "ControlCategory": "Logging and Monitoring",
+    "Owner": "Admin",
+    "EvidenceDescription": "",
+    "DueDate": "2026-07-29T00:00:00",
+    "Status": 3,
+    "Notes": "Waiting for someone to do something"
+  }
+]

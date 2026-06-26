@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\SecurityControlEvidenceTracker\SecurityControlEvidenceTracker\bin\Debug\net8.0\SecurityControlEvidenceTracker.exe
+C:\Users\Jeff\source\repos\SecurityControlEvidenceTracker\SecurityControlEvidenceTracker\bin\Debug\net8.0\SecurityControlEvidenceTracker.deps.json
+C:\Users\Jeff\source\repos\SecurityControlEvidenceTracker\SecurityControlEvidenceTracker\bin\Debug\net8.0\SecurityControlEvidenceTracker.runtimeconfig.json
+C:\Users\Jeff\source\repos\SecurityControlEvidenceTracker\SecurityControlEvidenceTracker\bin\Debug\net8.0\SecurityControlEvidenceTracker.dll
+C:\Users\Jeff\source\repos\SecurityControlEvidenceTracker\SecurityControlEvidenceTracker\bin\Debug\net8.0\SecurityControlEvidenceTracker.pdb
+C:\Users\Jeff\source\repos\SecurityControlEvidenceTracker\SecurityControlEvidenceTracker\obj\Debug\net8.0\SecurityControlEvidenceTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\SecurityControlEvidenceTracker\SecurityControlEvidenceTracker\obj\Debug\net8.0\SecurityControlEvidenceTracker.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\SecurityControlEvidenceTracker\SecurityControlEvidenceTracker\obj\Debug\net8.0\SecurityControlEvidenceTracker.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\SecurityControlEvidenceTracker\SecurityControlEvidenceTracker\obj\Debug\net8.0\SecurityControlEvidenceTracker.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\SecurityControlEvidenceTracker\SecurityControlEvidenceTracker\obj\Debug\net8.0\SecurityControlEvidenceTracker.dll
+C:\Users\Jeff\source\repos\SecurityControlEvidenceTracker\SecurityControlEvidenceTracker\obj\Debug\net8.0\refint\SecurityControlEvidenceTracker.dll
+C:\Users\Jeff\source\repos\SecurityControlEvidenceTracker\SecurityControlEvidenceTracker\obj\Debug\net8.0\SecurityControlEvidenceTracker.pdb
+C:\Users\Jeff\source\repos\SecurityControlEvidenceTracker\SecurityControlEvidenceTracker\obj\Debug\net8.0\SecurityControlEvidenceTracker.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\SecurityControlEvidenceTracker\SecurityControlEvidenceTracker\obj\Debug\net8.0\ref\SecurityControlEvidenceTracker.dll
